@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Beau, not Bob
 - 👀 I’m interested in Finance💰, Cryptocurrencies🪙, Python🐍, Java📜 & Other Programing Languages🖥️
-- 📈 I have a Master of Finance Degree
+- 📈 I have a Master's Degree of Finance
 - 💸 I’m looking to collaborate on crypto yeild strategies 
 - 📫 How to reach me through email or LinkedIn @ https://www.linkedin.com/in/robert-kass/
 
