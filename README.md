@@ -2,7 +2,7 @@
 - 👀 I’m interested in Finance💰, Cryptocurrencies🪙, Python🐍, Java📜 & Other Programing Languages🖥️
 - 📈 I have a Master's Degree of Finance
 - 💸 I’m looking to collaborate on crypto yeild strategies 
-- 📫 How to reach me through email or LinkedIn @ https://www.linkedin.com/in/robert-kass/
+- 📫 Reach me through email or LinkedIn @ https://www.linkedin.com/in/robert-kass/
 
 <!---
 StakeNBake/StakeNBake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
