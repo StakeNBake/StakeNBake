@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Beau, not Bob
+- 👋 Hi, I’m Beau
 - 👀 I’m interested in Finance💰, Cryptocurrencies🪙, Python🐍, Java📜 & Other Programing Languages🖥️
 - 📈 I have a Master's Degree of Finance
 - 💸 I’m looking to collaborate on crypto yeild strategies 
